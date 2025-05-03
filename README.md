@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-IshitaSadaria&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true)
 <!--
 **IshitaSadaria/IshitaSadaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
