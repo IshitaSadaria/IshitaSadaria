@@ -1,5 +1,5 @@
 # Hey!, I'm Ishi 👋🏼
-Hi I'm Software Engineer crafting and building scalable, high-performance applications using different technology sacks and architectures.
+I'm Software Engineer crafting and building scalable, high-performance applications using different technology stacks and architectures.
 
 ![Animated Name](./Capture.JPG)
 
