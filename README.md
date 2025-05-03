@@ -1,14 +1,11 @@
 # Hi, I'm Ishi 👋
+Hi I'm Software Engineer crafting and building scalable, high-performance applications using different technology sacks and architectures.
 
 ![Animated Name](./Capture.JPG)
 
 ✨ [View it Live Here](https://git-hub-profile-git-main-ishitasadarias-projects.vercel.app/)
 
 ![](https://komarev.com/ghpvc/?username=your-github-IshitaSadaria&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true)
-
-# 💫 About Me:
-Hi I'm Software Engineer crafting and building scalable, high-performance applications using different technology sacks and architectures.
-
 
 ## 🌐 Socials:
 Let's connect and collaborate for technical learnings
