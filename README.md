@@ -1,17 +1,76 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ishita Sadaria</title>
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
 
-![](https://komarev.com/ghpvc/?username=your-github-IshitaSadaria&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true)
-<!--
-**IshitaSadaria/IshitaSadaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    .name {
+      font-family: 'Great Vibes', cursive;
+      font-size: 70px;
+      color: #00f6ff;
+      white-space: nowrap;
+      overflow: hidden;
+      width: 0;
+      padding: 20px;
+      text-shadow:
+        0 0 5px #00f6ff,
+        0 0 10px #00f6ff,
+        0 0 20px #00f6ff,
+        0 0 40px #00f6ff;
+      animation: typing 3s steps(14) 1 forwards, glow 1.5s ease-in-out infinite alternate;
+    }
 
-Here are some ideas to get you started:
+    @keyframes typing {
+      0% { width: 0; }
+      100% { width: 14ch; }
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    @keyframes glow {
+      from {
+        text-shadow:
+          0 0 5px #00f6ff,
+          0 0 10px #00f6ff,
+          0 0 20px #00f6ff,
+          0 0 40px #00f6ff;
+      }
+      to {
+        text-shadow:
+          0 0 10px #00ffff,
+          0 0 20px #00ffff,
+          0 0 30px #00ffff,
+          0 0 50px #00ffff;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="name-container">
+    <div class="name">Ishita Sadaria</div>
+  </div>
+
+  <script>
+    const container = document.querySelector('.name-container');
+    const original = container.innerHTML;
+
+    setInterval(() => {
+      container.innerHTML = '';
+      setTimeout(() => {
+        container.innerHTML = original;
+      }, 100); // small delay before restart
+    }, 4000); // total time per loop (animation duration + hold)
+  </script>
+
+</body>
+</html>
