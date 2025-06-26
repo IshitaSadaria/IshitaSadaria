@@ -21,4 +21,9 @@ Let's connect and collaborate for technical learnings
 ---
 [![](https://visitcount.itsvg.in/api?id=ishitasadaria&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  "For a developer, 'It’s hard' just means 'Give me some time.'"
+"What seems impossible today is just another merged pull request tomorrow."
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
